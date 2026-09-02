@@ -1,0 +1,173 @@
+{
+  "format": 1,
+  "exported_at": "2026-09-02T19:51:08.281492Z",
+  "app": "v1.7.0 (8)",
+  "my_drugs": [],
+  "notes": [],
+  "stock": [
+    {
+      "uid": "glukofage",
+      "added_at": 1788247449
+    },
+    {
+      "uid": "intelekta",
+      "added_at": 1788247465
+    },
+    {
+      "uid": "ksarelto",
+      "added_at": 1788247472
+    },
+    {
+      "uid": "bonviva",
+      "added_at": 1788247530
+    },
+    {
+      "uid": "rosartia",
+      "added_at": 1788247551
+    },
+    {
+      "uid": "rosuben",
+      "added_at": 1788247597
+    },
+    {
+      "uid": "rosupose",
+      "added_at": 1788247609
+    },
+    {
+      "uid": "leksotanil",
+      "added_at": 1788247618
+    },
+    {
+      "uid": "tobradeks",
+      "added_at": 1788247633
+    },
+    {
+      "uid": "prestalia",
+      "added_at": 1788247762
+    },
+    {
+      "uid": "erezel",
+      "added_at": 1788247782
+    },
+    {
+      "uid": "modulair",
+      "added_at": 1788247829
+    },
+    {
+      "uid": "filikine",
+      "added_at": 1788247847
+    },
+    {
+      "uid": "tarontal",
+      "added_at": 1788247865
+    },
+    {
+      "uid": "orizal",
+      "added_at": 1788248420
+    },
+    {
+      "uid": "orizal-plus",
+      "added_at": 1788248421
+    },
+    {
+      "uid": "lobivon",
+      "added_at": 1788248453
+    },
+    {
+      "uid": "blokatens",
+      "added_at": 1788259373
+    },
+    {
+      "uid": "kopalia",
+      "added_at": 1788259398
+    },
+    {
+      "uid": "diovan",
+      "added_at": 1788259435
+    },
+    {
+      "uid": "ko-diovan",
+      "added_at": 1788259447
+    },
+    {
+      "uid": "espoza",
+      "added_at": 1788259460
+    },
+    {
+      "uid": "ekstrator-s",
+      "added_at": 1788259490
+    },
+    {
+      "uid": "maksartan",
+      "added_at": 1788259510
+    },
+    {
+      "uid": "memodrin",
+      "added_at": 1788259531
+    },
+    {
+      "uid": "t4",
+      "added_at": 1788259562
+    },
+    {
+      "uid": "ksenetiks",
+      "added_at": 1788260581
+    },
+    {
+      "uid": "skabal",
+      "added_at": 1788334343
+    },
+    {
+      "uid": "z-bek",
+      "added_at": 1788334353
+    },
+    {
+      "uid": "elkozek",
+      "added_at": 1788335012
+    },
+    {
+      "uid": "alfuzin",
+      "added_at": 1788335275
+    },
+    {
+      "uid": "alfural",
+      "added_at": 1788335288
+    },
+    {
+      "uid": "flukon",
+      "added_at": 1788336666
+    }
+  ],
+  "submissions": [
+    {
+      "name": "AROMATIC CITRONELLA PATCHES",
+      "note": "пластырь от комаров",
+      "created_at": 1788203819,
+      "status": "queued",
+      "error": "",
+      "url": "",
+      "result_uid": "",
+      "recognized": ""
+    },
+    {
+      "name": "VIVIMIND",
+      "note": "для памяти",
+      "created_at": 1788260670,
+      "status": "queued",
+      "error": "",
+      "url": "",
+      "result_uid": "",
+      "recognized": ""
+    },
+    {
+      "name": "Systane",
+      "note": "капли в глаза",
+      "created_at": 1788334613,
+      "status": "queued",
+      "error": "",
+      "url": "",
+      "result_uid": "",
+      "recognized": ""
+    }
+  ]
+}

@@ -1,238 +1,57 @@
 {
   "format": 1,
-  "exported_at": "2026-09-03T15:46:09.758588Z",
-  "app": "v1.7.0 (8)",
-  "my_drugs": [
-    {
-      "uid": "my-premier-med-aromatik-kitronela-pathes",
-      "name": "PREMIER MED AROMATIC CITRONELLA PATCHES",
-      "substances": "Citronella oil",
-      "atc": "",
-      "group_ru": "",
-      "indications_ru": "Отпугивание комаров и других насекомых; защита детей и взрослых на прогулке",
-      "notes": "Не лекарство, косметическое/репеллентное средство. Клеить на одежду или коляску, не на кожу. Без аммиака и спирта, от 3 мес.",
-      "forms": "Ароматические пластыри-наклейки, 18 шт.",
-      "rx": 0,
-      "name_fold": "premier med aromatik kitronela pathes",
-      "subst_fold": "kitronela oil",
-      "source": "фото",
-      "created_at": 1788381885,
-      "updated_at": 1788381885
-    },
-    {
-      "uid": "my-vivimind",
-      "name": "VIVIMIND",
-      "substances": "Homotaurine",
-      "atc": "",
-      "group_ru": "",
-      "indications_ru": "Поддержка памяти и когнитивных функций, возрастное снижение памяти и концентрации",
-      "notes": "Пищевая добавка, не лекарство. Обычно 1 таблетка 2 раза в день; глотать целиком, не разжёвывать. ATC не присвоен.",
-      "forms": "Таблетки, покрытые кишечнорастворимой оболочкой, 50 мг; 60 шт.",
-      "rx": 0,
-      "name_fold": "vivimind",
-      "subst_fold": "homotaurine",
-      "source": "фото",
-      "created_at": 1788381892,
-      "updated_at": 1788381892
-    }
-  ],
+  "exported_at": "2026-09-04T17:55:52.913356Z",
+  "app": "v1.9.0 (11)",
+  "my_drugs": [],
   "notes": [],
+  "dosages": [],
   "stock": [
     {
-      "uid": "glukofage",
-      "added_at": 1788247449
+      "uid": "voltaren-fast",
+      "added_at": 1788508925
     },
     {
-      "uid": "intelekta",
-      "added_at": 1788247465
+      "uid": "dioster",
+      "added_at": 1788509018
     },
     {
-      "uid": "ksarelto",
-      "added_at": 1788247472
+      "uid": "prolia",
+      "added_at": 1788520566
     },
     {
-      "uid": "bonviva",
-      "added_at": 1788247530
+      "uid": "elikvis",
+      "added_at": 1788520578
     },
     {
-      "uid": "rosartia",
-      "added_at": 1788247551
+      "uid": "provist",
+      "added_at": 1788520692
     },
     {
-      "uid": "rosuben",
-      "added_at": 1788247597
+      "uid": "algofren",
+      "added_at": 1788520717
     },
     {
-      "uid": "rosupose",
-      "added_at": 1788247609
+      "uid": "maloks",
+      "added_at": 1788520812
     },
     {
-      "uid": "leksotanil",
-      "added_at": 1788247618
+      "uid": "maloks-horis-zahari",
+      "added_at": 1788520817
     },
     {
-      "uid": "tobradeks",
-      "added_at": 1788247633
+      "uid": "maloks-plus",
+      "added_at": 1788520820
     },
     {
-      "uid": "prestalia",
-      "added_at": 1788247762
+      "uid": "prospan",
+      "added_at": 1788520919
     },
     {
-      "uid": "erezel",
-      "added_at": 1788247782
-    },
-    {
-      "uid": "modulair",
-      "added_at": 1788247829
-    },
-    {
-      "uid": "filikine",
-      "added_at": 1788247847
-    },
-    {
-      "uid": "tarontal",
-      "added_at": 1788247865
-    },
-    {
-      "uid": "orizal",
-      "added_at": 1788248420
-    },
-    {
-      "uid": "orizal-plus",
-      "added_at": 1788248421
-    },
-    {
-      "uid": "lobivon",
-      "added_at": 1788248453
-    },
-    {
-      "uid": "blokatens",
-      "added_at": 1788259373
-    },
-    {
-      "uid": "kopalia",
-      "added_at": 1788259398
-    },
-    {
-      "uid": "diovan",
-      "added_at": 1788259435
-    },
-    {
-      "uid": "ko-diovan",
-      "added_at": 1788259447
-    },
-    {
-      "uid": "espoza",
-      "added_at": 1788259460
-    },
-    {
-      "uid": "ekstrator-s",
-      "added_at": 1788259490
-    },
-    {
-      "uid": "maksartan",
-      "added_at": 1788259510
-    },
-    {
-      "uid": "memodrin",
-      "added_at": 1788259531
-    },
-    {
-      "uid": "t4",
-      "added_at": 1788259562
-    },
-    {
-      "uid": "ksenetiks",
-      "added_at": 1788260581
-    },
-    {
-      "uid": "skabal",
-      "added_at": 1788334343
-    },
-    {
-      "uid": "z-bek",
-      "added_at": 1788334353
-    },
-    {
-      "uid": "elkozek",
-      "added_at": 1788335012
-    },
-    {
-      "uid": "alfuzin",
-      "added_at": 1788335275
-    },
-    {
-      "uid": "alfural",
-      "added_at": 1788335288
-    },
-    {
-      "uid": "flukon",
-      "added_at": 1788336666
-    },
-    {
-      "uid": "sistane-komplete",
-      "added_at": 1788381337
-    },
-    {
-      "uid": "my-vivimind",
-      "added_at": 1788382359
-    },
-    {
-      "uid": "my-premier-med-aromatik-kitronela-pathes",
-      "added_at": 1788382368
-    },
-    {
-      "uid": "panadol",
-      "added_at": 1788382717
-    },
-    {
-      "uid": "panadol-ekstra",
-      "added_at": 1788382718
-    },
-    {
-      "uid": "ozempik",
-      "added_at": 1788383503
-    },
-    {
-      "uid": "apidra",
-      "added_at": 1788383509
-    },
-    {
-      "uid": "tresiba",
-      "added_at": 1788383546
+      "uid": "prospan-2",
+      "added_at": 1788520920
     }
   ],
-  "submissions": [
-    {
-      "name": "AROMATIC CITRONELLA PATCHES",
-      "note": "пластырь от комаров",
-      "created_at": 1788203819,
-      "status": "added",
-      "error": "",
-      "url": "",
-      "result_uid": "my-premier-med-aromatik-kitronela-pathes",
-      "recognized": ""
-    },
-    {
-      "name": "VIVIMIND",
-      "note": "для памяти",
-      "created_at": 1788260670,
-      "status": "added",
-      "error": "",
-      "url": "",
-      "result_uid": "my-vivimind",
-      "recognized": ""
-    },
-    {
-      "name": "Systane",
-      "note": "капли в глаза",
-      "created_at": 1788334613,
-      "status": "duplicate",
-      "error": "",
-      "url": "",
-      "result_uid": "sistane-komplete",
-      "recognized": "{\"name\":\"SYSTANE COMPLETE\",\"substances\":\"Propylene glycol\",\"atc\":\"\",\"forms\":\"Глазные капли (смазывающие), флакон 10 мл, без консервантов\",\"rx\":0,\"indications_ru\":\"Сухость, раздражение, жжение и усталость глаз; увлажнение при синдроме сухого глаза\",\"notes\":\"Медизделие, не лекарство. Можно с контактными линзами. Перед применением взболтать. После открытия — по инструкции (обычно 6 мес).\",\"confidence\":\"medium\"}"
-    }
-  ]
+  "para": [],
+  "learned_words": [],
+  "submissions": []
 }

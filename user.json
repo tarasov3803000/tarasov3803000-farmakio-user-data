@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "exported_at": "2026-09-04T18:15:28.867741Z",
-  "app": "v1.9.1 (12)",
+  "exported_at": "2026-09-06T18:20:18.146318Z",
+  "app": "v1.12.0 (28)",
   "my_drugs": [
     {
       "uid": "my-premier-med-aromatik-kitronela-pathes",
@@ -36,10 +36,152 @@
       "created_at": 1788381892,
       "updated_at": 1788381892,
       "verified_at": 0
+    },
+    {
+      "uid": "my-kalmakough-ekstra",
+      "name": "CALMACOUGH EXTRA",
+      "substances": "",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "Симптоматическое облегчение кашля и раздражения горла",
+      "notes": "Состав не подтверждён — уточнить действующие вещества по упаковке; вероятно безрецептурное средство/БАД",
+      "forms": "Сироп от кашля (флакон)",
+      "rx": 0,
+      "name_fold": "kalmakough ekstra",
+      "subst_fold": "",
+      "source": "название",
+      "created_at": 1788547044,
+      "updated_at": 1788547044,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-igaktive-ekspekta",
+      "name": "IGACTIVE EXPECTA",
+      "substances": "",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "Средство при кашле, для облегчения отхождения мокроты (данные не подтверждены)",
+      "notes": "Данных о составе нет — вероятно БАД/сироп от кашля греческой линейки IGACTIVE. Уточнить состав по упаковке.",
+      "forms": "",
+      "rx": 0,
+      "name_fold": "igaktive ekspekta",
+      "subst_fold": "",
+      "source": "название",
+      "created_at": 1788547049,
+      "updated_at": 1788547049,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-larikine-k",
+      "name": "LARICINE-C",
+      "substances": "",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "",
+      "notes": "Нет надёжных данных по этому торговому названию — состав не подтверждён. Уточнить по упаковке или в базе ΕΟΦ.",
+      "forms": "",
+      "rx": 0,
+      "name_fold": "larikine k",
+      "subst_fold": "",
+      "source": "название",
+      "created_at": 1788547055,
+      "updated_at": 1788547055,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-melo-iunior",
+      "name": "MELOO JUNIOR",
+      "substances": "",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "",
+      "notes": "Данных недостаточно: состав и форма не подтверждены. Вероятно БАД для детей (возможно с мелатонином) — уточнить по упаковке.",
+      "forms": "",
+      "rx": 0,
+      "name_fold": "melo iunior",
+      "subst_fold": "",
+      "source": "название",
+      "created_at": 1788547060,
+      "updated_at": 1788547060,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-melo",
+      "name": "MELOO",
+      "substances": "",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "",
+      "notes": "Данных недостаточно: препарат с таким названием не идентифицирован. Возможна опечатка (MELOXIL/MELOX?). Нужны фото упаковки и состав.",
+      "forms": "",
+      "rx": 0,
+      "name_fold": "melo",
+      "subst_fold": "",
+      "source": "название",
+      "created_at": 1788547066,
+      "updated_at": 1788547066,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-pneosolvan-fito",
+      "name": "PNEOSOLVAN PHYTO",
+      "substances": "МедЭкстракты трав (алтей, плющ и тимьян)Эфирные масла (эвкалипт, мята перечная и анис)Цинк",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "Кашель, облегчение отхождения мокроты при простуде (растительное средство)",
+      "notes": "Точный состав по присланным данным не подтверждён — уточните по упаковке. Отпуск без рецепта.",
+      "forms": "Сироп (растительный препарат от кашля)",
+      "rx": 0,
+      "name_fold": "pneosolvan fito",
+      "subst_fold": "medekstrakti trav altei plius i timian efirnie masla evkalipt miata perehnaia i anis kink",
+      "source": "название",
+      "created_at": 1788547071,
+      "updated_at": 1788548569,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-sinekalm-sirup",
+      "name": "SYNECALM SYRUP",
+      "substances": "",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "",
+      "notes": "Данных недостаточно: состав и назначение препарата не установлены, требуется уточнение по упаковке",
+      "forms": "Сироп",
+      "rx": 0,
+      "name_fold": "sinekalm sirup",
+      "subst_fold": "",
+      "source": "название",
+      "created_at": 1788547075,
+      "updated_at": 1788547075,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-sinekalm-kids-sirup",
+      "name": "SYNECALM KIDS SYRUP",
+      "substances": "",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "Детское успокаивающее средство: беспокойство, трудности с засыпанием (БАД)",
+      "notes": "Данных о точном составе нет — уточнить по упаковке. Вероятно БАД (не лекарство), продаётся без рецепта.",
+      "forms": "Сироп для приёма внутрь (флакон)",
+      "rx": 0,
+      "name_fold": "sinekalm kids sirup",
+      "subst_fold": "",
+      "source": "название",
+      "created_at": 1788547082,
+      "updated_at": 1788547082,
+      "verified_at": 0
     }
   ],
   "notes": [],
-  "dosages": [],
+  "dosages": [
+    {
+      "uid": "algofren",
+      "text": "Взрослые 400-600 мг на одну дозк кпждые 6-8 часов. Подростки в возрасте ≥ 12 лет\t> 40 кг\t200–400 мг на дозу\tдо 1200 мг/день\tкаждые 6–8 часов\t10–20 мл на дозу",
+      "updated_at": 1788546640
+    }
+  ],
   "stock": [
     {
       "uid": "voltaren-fast",
@@ -248,10 +390,41 @@
     {
       "uid": "tresiba",
       "added_at": 1788383546
+    },
+    {
+      "uid": "levotus",
+      "added_at": 1788547038
+    },
+    {
+      "uid": "trebon-n",
+      "added_at": 1788547038
+    },
+    {
+      "uid": "sinekod",
+      "added_at": 1788547038
+    }
+  ],
+  "expiries": [
+    {
+      "uid": "my-melo",
+      "expires": "2027-01",
+      "qty": 20,
+      "updated_at": 1788550836
+    },
+    {
+      "uid": "my-melo-iunior",
+      "expires": "2027-01",
+      "qty": 15,
+      "updated_at": 1788550852
     }
   ],
   "para": [],
-  "learned_words": [],
+  "learned_words": [
+    {
+      "word": "βήχας",
+      "learned_at": 1788550008
+    }
+  ],
   "submissions": [
     {
       "name": "AROMATIC CITRONELLA PATCHES",
@@ -263,7 +436,8 @@
       "result_uid": "my-premier-med-aromatik-kitronela-pathes",
       "recognized": "",
       "input_tokens": 0,
-      "output_tokens": 0
+      "output_tokens": 0,
+      "searches": 0
     },
     {
       "name": "VIVIMIND",
@@ -275,7 +449,8 @@
       "result_uid": "my-vivimind",
       "recognized": "",
       "input_tokens": 0,
-      "output_tokens": 0
+      "output_tokens": 0,
+      "searches": 0
     },
     {
       "name": "Systane",
@@ -287,7 +462,112 @@
       "result_uid": "sistane-komplete",
       "recognized": "{\"name\":\"SYSTANE COMPLETE\",\"substances\":\"Propylene glycol\",\"atc\":\"\",\"forms\":\"Глазные капли (смазывающие), флакон 10 мл, без консервантов\",\"rx\":0,\"indications_ru\":\"Сухость, раздражение, жжение и усталость глаз; увлажнение при синдроме сухого глаза\",\"notes\":\"Медизделие, не лекарство. Можно с контактными линзами. Перед применением взболтать. После открытия — по инструкции (обычно 6 мес).\",\"confidence\":\"medium\"}",
       "input_tokens": 0,
-      "output_tokens": 0
+      "output_tokens": 0,
+      "searches": 0
+    },
+    {
+      "name": "SYNECALM KIDS SYRUP",
+      "note": "С фото полки",
+      "created_at": 1788547038,
+      "status": "added",
+      "error": "",
+      "url": "",
+      "result_uid": "my-sinekalm-kids-sirup",
+      "recognized": "",
+      "input_tokens": 1924,
+      "output_tokens": 202,
+      "searches": 0
+    },
+    {
+      "name": "SYNECALM SYRUP",
+      "note": "С фото полки",
+      "created_at": 1788547038,
+      "status": "added",
+      "error": "",
+      "url": "",
+      "result_uid": "my-sinekalm-sirup",
+      "recognized": "",
+      "input_tokens": 1920,
+      "output_tokens": 133,
+      "searches": 0
+    },
+    {
+      "name": "PNEOSOLVAN PHYTO",
+      "note": "С фото полки",
+      "created_at": 1788547038,
+      "status": "added",
+      "error": "",
+      "url": "",
+      "result_uid": "my-pneosolvan-fito",
+      "recognized": "",
+      "input_tokens": 1924,
+      "output_tokens": 209,
+      "searches": 0
+    },
+    {
+      "name": "MELOO",
+      "note": "С фото полки",
+      "created_at": 1788547038,
+      "status": "added",
+      "error": "",
+      "url": "",
+      "result_uid": "my-melo",
+      "recognized": "",
+      "input_tokens": 1913,
+      "output_tokens": 171,
+      "searches": 0
+    },
+    {
+      "name": "MELOO JUNIOR",
+      "note": "С фото полки",
+      "created_at": 1788547038,
+      "status": "added",
+      "error": "",
+      "url": "",
+      "result_uid": "my-melo-iunior",
+      "recognized": "",
+      "input_tokens": 1918,
+      "output_tokens": 207,
+      "searches": 0
+    },
+    {
+      "name": "LARICINE-C",
+      "note": "С фото полки",
+      "created_at": 1788547038,
+      "status": "added",
+      "error": "",
+      "url": "",
+      "result_uid": "my-larikine-k",
+      "recognized": "",
+      "input_tokens": 1916,
+      "output_tokens": 218,
+      "searches": 0
+    },
+    {
+      "name": "IGACTIVE EXPECTA",
+      "note": "С фото полки",
+      "created_at": 1788547038,
+      "status": "added",
+      "error": "",
+      "url": "",
+      "result_uid": "my-igaktive-ekspekta",
+      "recognized": "",
+      "input_tokens": 1922,
+      "output_tokens": 208,
+      "searches": 0
+    },
+    {
+      "name": "CALMACOUGH EXTRA",
+      "note": "С фото полки",
+      "created_at": 1788547038,
+      "status": "added",
+      "error": "",
+      "url": "",
+      "result_uid": "my-kalmakough-ekstra",
+      "recognized": "",
+      "input_tokens": 1922,
+      "output_tokens": 179,
+      "searches": 0
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-09-06T18:20:18.146318Z",
+  "exported_at": "2026-09-10T21:30:06.936140Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -402,6 +402,114 @@
     {
       "uid": "sinekod",
       "added_at": 1788547038
+    },
+    {
+      "uid": "tokovis",
+      "added_at": 1788775734
+    },
+    {
+      "uid": "nikorete",
+      "added_at": 1788775736
+    },
+    {
+      "uid": "kipraned",
+      "added_at": 1788775749
+    },
+    {
+      "uid": "mouniaro",
+      "added_at": 1788776958
+    },
+    {
+      "uid": "kanesten",
+      "added_at": 1788778209
+    },
+    {
+      "uid": "flekaritm",
+      "added_at": 1788778607
+    },
+    {
+      "uid": "rispelen",
+      "added_at": 1788938153
+    },
+    {
+      "uid": "zikalor",
+      "added_at": 1788938328
+    },
+    {
+      "uid": "emkonkor",
+      "added_at": 1788938511
+    },
+    {
+      "uid": "ebimem",
+      "added_at": 1788938535
+    },
+    {
+      "uid": "kepra",
+      "added_at": 1788938742
+    },
+    {
+      "uid": "ianumet",
+      "added_at": 1788938775
+    },
+    {
+      "uid": "tegretol",
+      "added_at": 1788938811
+    },
+    {
+      "uid": "norvask",
+      "added_at": 1788939178
+    },
+    {
+      "uid": "enlift",
+      "added_at": 1788939205
+    },
+    {
+      "uid": "ksatral-od",
+      "added_at": 1788939245
+    },
+    {
+      "uid": "lipitor",
+      "added_at": 1788939271
+    },
+    {
+      "uid": "maniper",
+      "added_at": 1788939282
+    },
+    {
+      "uid": "seropram",
+      "added_at": 1788939297
+    },
+    {
+      "uid": "eksforge",
+      "added_at": 1788939311
+    },
+    {
+      "uid": "letrafem",
+      "added_at": 1788939328
+    },
+    {
+      "uid": "nozinan",
+      "added_at": 1788939351
+    },
+    {
+      "uid": "atropine-ariti",
+      "added_at": 1788939374
+    },
+    {
+      "uid": "depakine",
+      "added_at": 1788940097
+    },
+    {
+      "uid": "brinteliks",
+      "added_at": 1788940159
+    },
+    {
+      "uid": "trusopt",
+      "added_at": 1788940341
+    },
+    {
+      "uid": "karbosilane",
+      "added_at": 1788945018
     }
   ],
   "expiries": [
@@ -416,6 +524,12 @@
       "expires": "2027-01",
       "qty": 15,
       "updated_at": 1788550852
+    },
+    {
+      "uid": "atropine-ariti",
+      "expires": "2027-11",
+      "qty": 2,
+      "updated_at": 1788939451
     }
   ],
   "para": [],

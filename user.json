@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-09-15T08:35:43.291298Z",
+  "exported_at": "2026-09-16T14:34:50.026288Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -510,6 +510,86 @@
     {
       "uid": "karbosilane",
       "added_at": 1788945018
+    },
+    {
+      "uid": "monoprost",
+      "added_at": 1789461354
+    },
+    {
+      "uid": "simbrinza",
+      "added_at": 1789461364
+    },
+    {
+      "uid": "depreviks",
+      "added_at": 1789464753
+    },
+    {
+      "uid": "invokana",
+      "added_at": 1789466647
+    },
+    {
+      "uid": "viopleks-t",
+      "added_at": 1789466700
+    },
+    {
+      "uid": "flekardia",
+      "added_at": 1789467828
+    },
+    {
+      "uid": "deksaris",
+      "added_at": 1789467843
+    },
+    {
+      "uid": "zilapour",
+      "added_at": 1789467862
+    },
+    {
+      "uid": "trofokard",
+      "added_at": 1789467875
+    },
+    {
+      "uid": "ritmonorm",
+      "added_at": 1789467910
+    },
+    {
+      "uid": "relief",
+      "added_at": 1789467923
+    },
+    {
+      "uid": "zestril",
+      "added_at": 1789469066
+    },
+    {
+      "uid": "zurkazol",
+      "added_at": 1789469086
+    },
+    {
+      "uid": "plaviks",
+      "added_at": 1789469127
+    },
+    {
+      "uid": "omnik-tokas",
+      "added_at": 1789469141
+    },
+    {
+      "uid": "talosin",
+      "added_at": 1789469651
+    },
+    {
+      "uid": "esran",
+      "added_at": 1789471196
+    },
+    {
+      "uid": "eksforge-hkt",
+      "added_at": 1789471210
+    },
+    {
+      "uid": "rustez",
+      "added_at": 1789471437
+    },
+    {
+      "uid": "brieka",
+      "added_at": 1789471801
     }
   ],
   "expiries": [

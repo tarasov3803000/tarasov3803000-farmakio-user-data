@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-09-16T14:34:50.026288Z",
+  "exported_at": "2026-09-18T05:05:15.645830Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -180,6 +180,26 @@
       "uid": "algofren",
       "text": "Взрослые 400-600 мг на одну дозк кпждые 6-8 часов. Подростки в возрасте ≥ 12 лет\t> 40 кг\t200–400 мг на дозу\tдо 1200 мг/день\tкаждые 6–8 часов\t10–20 мл на дозу",
       "updated_at": 1788546640
+    },
+    {
+      "uid": "augmentin",
+      "text": "Для взрослых и детей с массой тела &ge 40 кг суточная доза составляет 1 750 мг амоксициллина / 250 мг клавулановой кислоты (2 таблетки), суточную дозу делят на 2 приема.",
+      "updated_at": 1789571158
+    },
+    {
+      "uid": "ultra-levure",
+      "text": "Кап. по 50 мг:В и дет старше 6 лет: по 2 капсулы 2 раза в день (всего 4 капсулы в сутки), либо по 1–2 кап 3 р в день ПО 250 мг 4 кап. в сутки разделить на 2 приема Вода не больше 50° с 2до 6 лет сашше",
+      "updated_at": 1789571667
+    },
+    {
+      "uid": "keftoral",
+      "text": "активный компонент Цефиксим, полусинтетический beta-лактамный антибиотик. Обычно взрослым 400 мг  в день разделённые на два приёма или однократно",
+      "updated_at": 1789572528
+    },
+    {
+      "uid": "lipidil",
+      "text": "снижает уровень холестерина и триглицеридов (жиров) в крови",
+      "updated_at": 1789578620
     }
   ],
   "stock": [
@@ -590,6 +610,202 @@
     {
       "uid": "brieka",
       "added_at": 1789471801
+    },
+    {
+      "uid": "eutiroks",
+      "added_at": 1789570153
+    },
+    {
+      "uid": "lamiktal",
+      "added_at": 1789570332
+    },
+    {
+      "uid": "matever",
+      "added_at": 1789570421
+    },
+    {
+      "uid": "ezetimibe-atorvastatin-rafarm",
+      "added_at": 1789570659
+    },
+    {
+      "uid": "azemista",
+      "added_at": 1789571680
+    },
+    {
+      "uid": "ivor",
+      "added_at": 1789572249
+    },
+    {
+      "uid": "keftoral",
+      "added_at": 1789572337
+    },
+    {
+      "uid": "solurik",
+      "added_at": 1789572604
+    },
+    {
+      "uid": "zitromaks",
+      "added_at": 1789572618
+    },
+    {
+      "uid": "klarikid",
+      "added_at": 1789572638
+    },
+    {
+      "uid": "keklor",
+      "added_at": 1789572648
+    },
+    {
+      "uid": "kilroton",
+      "added_at": 1789572740
+    },
+    {
+      "uid": "koveram",
+      "added_at": 1789574361
+    },
+    {
+      "uid": "gino-tardiferon",
+      "added_at": 1789574410
+    },
+    {
+      "uid": "ksanaks",
+      "added_at": 1789574438
+    },
+    {
+      "uid": "tormis",
+      "added_at": 1789574445
+    },
+    {
+      "uid": "kelmantin",
+      "added_at": 1789574460
+    },
+    {
+      "uid": "sinvia",
+      "added_at": 1789574505
+    },
+    {
+      "uid": "lepur",
+      "added_at": 1789574530
+    },
+    {
+      "uid": "koaprovel",
+      "added_at": 1789574546
+    },
+    {
+      "uid": "aprovel",
+      "added_at": 1789574573
+    },
+    {
+      "uid": "maksideks",
+      "added_at": 1789574582
+    },
+    {
+      "uid": "angoron",
+      "added_at": 1789574596
+    },
+    {
+      "uid": "relvar-elipta",
+      "added_at": 1789575172
+    },
+    {
+      "uid": "gardasil",
+      "added_at": 1789575280
+    },
+    {
+      "uid": "urorek",
+      "added_at": 1789576667
+    },
+    {
+      "uid": "kanilad",
+      "added_at": 1789576696
+    },
+    {
+      "uid": "losek",
+      "added_at": 1789576707
+    },
+    {
+      "uid": "fosavanke",
+      "added_at": 1789576721
+    },
+    {
+      "uid": "fludeks",
+      "added_at": 1789576746
+    },
+    {
+      "uid": "dulsevia",
+      "added_at": 1789576760
+    },
+    {
+      "uid": "kaprilon-od",
+      "added_at": 1789576776
+    },
+    {
+      "uid": "akineton",
+      "added_at": 1789576794
+    },
+    {
+      "uid": "zomarist",
+      "added_at": 1789577078
+    },
+    {
+      "uid": "ksigduo",
+      "added_at": 1789577090
+    },
+    {
+      "uid": "dalmevin",
+      "added_at": 1789577100
+    },
+    {
+      "uid": "siniardi",
+      "added_at": 1789577572
+    },
+    {
+      "uid": "forksiga",
+      "added_at": 1789577719
+    },
+    {
+      "uid": "mikardis",
+      "added_at": 1789577736
+    },
+    {
+      "uid": "menkvadfi",
+      "added_at": 1789577821
+    },
+    {
+      "uid": "prokvad",
+      "added_at": 1789578033
+    },
+    {
+      "uid": "lipidil",
+      "added_at": 1789578565
+    },
+    {
+      "uid": "iardianke",
+      "added_at": 1789579000
+    },
+    {
+      "uid": "liptruzet",
+      "added_at": 1789579012
+    },
+    {
+      "uid": "dotarem",
+      "added_at": 1789579209
+    },
+    {
+      "uid": "betmiga",
+      "added_at": 1789579376
+    },
+    {
+      "uid": "tritiko",
+      "added_at": 1789628929
+    },
+    {
+      "uid": "atakand-plus",
+      "added_at": 1789631465
+    },
+    {
+      "uid": "fironekse-plus",
+      "added_at": 1789631484
     }
   ],
   "expiries": [

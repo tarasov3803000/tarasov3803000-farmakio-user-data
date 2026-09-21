@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-09-18T05:05:15.645830Z",
+  "exported_at": "2026-09-21T05:47:23.669578Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -806,6 +806,46 @@
     {
       "uid": "fironekse-plus",
       "added_at": 1789631484
+    },
+    {
+      "uid": "norgesik",
+      "added_at": 1789714221
+    },
+    {
+      "uid": "kurilen",
+      "added_at": 1789715550
+    },
+    {
+      "uid": "diakerein-norma",
+      "added_at": 1789715594
+    },
+    {
+      "uid": "sitagliptin-rafarm",
+      "added_at": 1789715658
+    },
+    {
+      "uid": "difosfon-s",
+      "added_at": 1789715674
+    },
+    {
+      "uid": "iskover",
+      "added_at": 1789722567
+    },
+    {
+      "uid": "ofuksal",
+      "added_at": 1789723004
+    },
+    {
+      "uid": "sevikar",
+      "added_at": 1789741276
+    },
+    {
+      "uid": "obergan",
+      "added_at": 1789744942
+    },
+    {
+      "uid": "rafuster",
+      "added_at": 1789744956
     }
   ],
   "expiries": [

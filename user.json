@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-09-21T05:47:23.669578Z",
+  "exported_at": "2026-09-22T07:12:22.355460Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -846,6 +846,30 @@
     {
       "uid": "rafuster",
       "added_at": 1789744956
+    },
+    {
+      "uid": "zitrotel",
+      "added_at": 1789971327
+    },
+    {
+      "uid": "triaksis",
+      "added_at": 1789988829
+    },
+    {
+      "uid": "repevaks",
+      "added_at": 1789988889
+    },
+    {
+      "uid": "tamsol",
+      "added_at": 1790000043
+    },
+    {
+      "uid": "kvepin",
+      "added_at": 1790003813
+    },
+    {
+      "uid": "singulair",
+      "added_at": 1790004266
     }
   ],
   "expiries": [

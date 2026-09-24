@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-09-22T07:12:22.355460Z",
+  "exported_at": "2026-09-24T07:19:27.461798Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -870,6 +870,78 @@
     {
       "uid": "singulair",
       "added_at": 1790004266
+    },
+    {
+      "uid": "lopresor",
+      "added_at": 1790061532
+    },
+    {
+      "uid": "fisiotens",
+      "added_at": 1790073681
+    },
+    {
+      "uid": "kipraleks",
+      "added_at": 1790151373
+    },
+    {
+      "uid": "tripliksam",
+      "added_at": 1790160745
+    },
+    {
+      "uid": "kosirel",
+      "added_at": 1790160757
+    },
+    {
+      "uid": "entakt",
+      "added_at": 1790160770
+    },
+    {
+      "uid": "unimazole",
+      "added_at": 1790160781
+    },
+    {
+      "uid": "vesikare",
+      "added_at": 1790160796
+    },
+    {
+      "uid": "lekalkif",
+      "added_at": 1790160806
+    },
+    {
+      "uid": "lekalkif-2",
+      "added_at": 1790160809
+    },
+    {
+      "uid": "karvepen",
+      "added_at": 1790160817
+    },
+    {
+      "uid": "holestatin",
+      "added_at": 1790160829
+    },
+    {
+      "uid": "kalkifenov",
+      "added_at": 1790160848
+    },
+    {
+      "uid": "valsimia",
+      "added_at": 1790160861
+    },
+    {
+      "uid": "aerolin",
+      "added_at": 1790160883
+    },
+    {
+      "uid": "zokor",
+      "added_at": 1790162826
+    },
+    {
+      "uid": "ipramid",
+      "added_at": 1790162841
+    },
+    {
+      "uid": "eskitalopram-sandoz",
+      "added_at": 1790162865
     }
   ],
   "expiries": [

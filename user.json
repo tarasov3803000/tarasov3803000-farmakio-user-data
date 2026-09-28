@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-09-24T07:19:27.461798Z",
+  "exported_at": "2026-09-28T07:14:53.758499Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -171,6 +171,159 @@
       "source": "название",
       "created_at": 1788547082,
       "updated_at": 1788547082,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-nozalis-relief",
+      "name": "NOZALYS RELIEF",
+      "substances": "Sodium chloride (hypertonic solution); Acetylcysteine; Methylsulfonylmethane",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "Заложенность носа, насморк, густая слизь; увлажнение и гигиена полости носа",
+      "notes": "Медизделие, не лекарство. Гипертонический раствор с N-ацетилцистеином и MSM. Для взрослых и детей; возможно лёгкое жжение. ATC не присваивается.",
+      "forms": "Спрей назальный, 20 мл",
+      "rx": 0,
+      "name_fold": "nozalis relief",
+      "subst_fold": "sodium hloride hipertonik solution aketilkisteine metilsulfonilmetane",
+      "source": "название",
+      "created_at": 1790234917,
+      "updated_at": 1790234917,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-iovir-troat-sprai-vit-karagelose",
+      "name": "IOVIR THROAT SPRAY WITH CARRAGELOSE",
+      "substances": "Iota-carrageenan (Carragelose); sodium chloride; xylitol",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "Боль и раздражение в горле, кашель при ОРВИ; профилактика и поддержка при вирусных инфекциях верхних дыхательных путей",
+      "notes": "Медизделие класса IIa, не лекарство. С 1 года, можно беременным и кормящим. Действует местно (плёнка), начинать при первых симптомах. ATC нет.",
+      "forms": "Спрей для горла, 20 мл (вкус вишни)",
+      "rx": 0,
+      "name_fold": "iovir troat sprai vit karagelose",
+      "subst_fold": "iota karagenan karagelose sodium hloride ksilitol",
+      "source": "название",
+      "created_at": 1790235259,
+      "updated_at": 1790235259,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-abilar-10",
+      "name": "ABILAR 10%",
+      "substances": "Picea abies resin",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "Заживление ран: хронические и инфицированные раны, язвы, ожоги, трещины, пролежни",
+      "notes": "Смола норвежской ели; не ЛС, а изделие медназначения. Возможна аллергия на смолу/канифоль. Наносить тонким слоем под повязку.",
+      "forms": "Мазь (салве) 10%; туба 15 г",
+      "rx": 0,
+      "name_fold": "abilar 10",
+      "subst_fold": "pikea abies resin",
+      "source": "название",
+      "created_at": 1790235267,
+      "updated_at": 1790235267,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-rinopanteina-plus",
+      "name": "RINOPANTEINA PLUS",
+      "substances": "hyaluronic acid (cross-linked); dexpanthenol; biotin; retinol; tocopherol",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "Сухость и раздражение слизистой носа, корки, восстановление после ринитов, деконгестантов, CPAP, операций",
+      "notes": "Медизделие, не лекарство: сосуды не сужает и заложенность не снимает. Отпуск без рецепта. ATC не присвоен.",
+      "forms": "Спрей назальный, 20 мл",
+      "rx": 0,
+      "name_fold": "rinopanteina plus",
+      "subst_fold": "hialuronik akid kros linked dekspantenol biotin retinol tokoferol",
+      "source": "название",
+      "created_at": 1790235283,
+      "updated_at": 1790235283,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-rinopanteina",
+      "name": "RINOPANTEINA",
+      "substances": "Dexpanthenol; Retinol; Paraffinum liquidum; Avena sativa protein",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "Сухость и корки в носу, восстановление слизистой после спреев, CPAP, операций, при ринитах",
+      "notes": "Медизделие/космецевтика, не лекарство — ATC нет. Наносить тонким слоем в каждую ноздрю. Не сосудосуживающее: заложенность сразу не снимет. Есть также форма капель.",
+      "forms": "Назальная мазь, 10 г",
+      "rx": 0,
+      "name_fold": "rinopanteina",
+      "subst_fold": "dekspantenol retinol parafinum likvidum avena sativa protein",
+      "source": "название",
+      "created_at": 1790235690,
+      "updated_at": 1790235690,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-rinopanteina-2",
+      "name": "RINOPANTEINA",
+      "substances": "Dexpanthenol; Retinol; Avena sativa protein; Paraffinum liquidum",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "Сухость и корки в носу, атрофический ринит, восстановление слизистой после спреев, CPAP, операций",
+      "notes": "Медизделие/космецевтика, не лекарство — кода ATC нет. Наносить тонким слоем в носовые ходы. Есть также форма капель 30 мл — не путать.",
+      "forms": "Назальная мазь, 10 г",
+      "rx": 0,
+      "name_fold": "rinopanteina",
+      "subst_fold": "dekspantenol retinol avena sativa protein parafinum likvidum",
+      "source": "название",
+      "created_at": 1790235697,
+      "updated_at": 1790235697,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-artelak-nasal-ektoin-alergi-sprai",
+      "name": "ARTELAC NASAL ECTOIN ALLERGY SPRAY",
+      "substances": "Ectoine",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "Аллергический ринит: заложенность, зуд, чихание, насморк при поллинозе; защита слизистой носа",
+      "notes": "Медизделие, не лекарство: без сосудосуживающих и кортикостероидов, можно детям и беременным. Перед первым применением прокачать распылитель.",
+      "forms": "Спрей назальный 2%, 20 мл",
+      "rx": 0,
+      "name_fold": "artelak nasal ektoin alergi sprai",
+      "subst_fold": "ektoine",
+      "source": "название",
+      "created_at": 1790235714,
+      "updated_at": 1790235714,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-artelak-nasal-ektoin-alergi-sprai-2",
+      "name": "ARTELAC NASAL ECTOIN ALLERGY SPRAY 2%",
+      "substances": "Ectoine",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "Профилактика и лечение аллергического ринита: заложенность, чихание, выделения из носа",
+      "notes": "Медицинское изделие, не лекарство: гормонов и сосудосуживающих нет, можно детям и беременным. Не путать с глазными каплями Artelac.",
+      "forms": "Спрей назальный 2%; 20 мл",
+      "rx": 0,
+      "name_fold": "artelak nasal ektoin alergi sprai 2",
+      "subst_fold": "ektoine",
+      "source": "название",
+      "created_at": 1790235717,
+      "updated_at": 1790235717,
+      "verified_at": 0
+    },
+    {
+      "uid": "my-iovir-plus",
+      "name": "IOVIR PLUS",
+      "substances": "Iota-carrageenan; Kappa-carrageenan; Sodium chloride (hypertonic)",
+      "atc": "",
+      "group_ru": "",
+      "indications_ru": "Простуда и ОРВИ: заложенность носа, насморк, защита слизистой от респираторных вирусов",
+      "notes": "Медизделие класса IIa, не лекарство. Отпуск без рецепта. Не вызывает привыкания, в отличие от сосудосуживающих. Флакон индивидуальный.",
+      "forms": "Спрей назальный, 20 мл",
+      "rx": 0,
+      "name_fold": "iovir plus",
+      "subst_fold": "iota karagenan kapa karagenan sodium hloride hipertonik",
+      "source": "название",
+      "created_at": 1790235720,
+      "updated_at": 1790235720,
       "verified_at": 0
     }
   ],
@@ -942,6 +1095,86 @@
     {
       "uid": "eskitalopram-sandoz",
       "added_at": 1790162865
+    },
+    {
+      "uid": "tardiferon",
+      "added_at": 1790234381
+    },
+    {
+      "uid": "deksa-rhinasprai-n",
+      "added_at": 1790234421
+    },
+    {
+      "uid": "baktroban",
+      "added_at": 1790234492
+    },
+    {
+      "uid": "viks-inhaler",
+      "added_at": 1790234840
+    },
+    {
+      "uid": "ronal",
+      "added_at": 1790234840
+    },
+    {
+      "uid": "heksarhinal",
+      "added_at": 1790234840
+    },
+    {
+      "uid": "viks-sineks",
+      "added_at": 1790234840
+    },
+    {
+      "uid": "nerita",
+      "added_at": 1790234895
+    },
+    {
+      "uid": "milk-of-magnesia",
+      "added_at": 1790235944
+    },
+    {
+      "uid": "rivaroksaban-viatris",
+      "added_at": 1790317594
+    },
+    {
+      "uid": "notrop",
+      "added_at": 1790318470
+    },
+    {
+      "uid": "mekolzin",
+      "added_at": 1790318756
+    },
+    {
+      "uid": "niktur",
+      "added_at": 1790319827
+    },
+    {
+      "uid": "komprelan",
+      "added_at": 1790322602
+    },
+    {
+      "uid": "iardel",
+      "added_at": 1790327560
+    },
+    {
+      "uid": "sivenik",
+      "added_at": 1790327626
+    },
+    {
+      "uid": "ultravist",
+      "added_at": 1790327647
+    },
+    {
+      "uid": "movesan",
+      "added_at": 1790329183
+    },
+    {
+      "uid": "stilnoks",
+      "added_at": 1790329251
+    },
+    {
+      "uid": "rupafin",
+      "added_at": 1790330553
     }
   ],
   "expiries": [
@@ -1114,6 +1347,97 @@
       "input_tokens": 1922,
       "output_tokens": 179,
       "searches": 0
+    },
+    {
+      "name": "ARTELAC",
+      "note": "С фото полки. На упаковке: Nasal Ectoin, Allergy Spray 2%, 20 ml",
+      "created_at": 1790234895,
+      "status": "added",
+      "error": "",
+      "url": "",
+      "result_uid": "my-artelak-nasal-ektoin-alergi-sprai-2",
+      "recognized": "",
+      "input_tokens": 39737,
+      "output_tokens": 935,
+      "searches": 2
+    },
+    {
+      "name": "RINOPANTEINA",
+      "note": "С фото полки. На упаковке: Ρινική Αλοιφή / Nasal Ointment 10 g",
+      "created_at": 1790234895,
+      "status": "added",
+      "error": "",
+      "url": "",
+      "result_uid": "my-rinopanteina-2",
+      "recognized": "",
+      "input_tokens": 35164,
+      "output_tokens": 849,
+      "searches": 2
+    },
+    {
+      "name": "RINOPANTEINA PLUS",
+      "note": "С фото полки. На упаковке: Ρινικό Σπρέι / Nasal Spray, 20 ml",
+      "created_at": 1790234895,
+      "status": "added",
+      "error": "",
+      "url": "",
+      "result_uid": "my-rinopanteina-plus",
+      "recognized": "",
+      "input_tokens": 16234,
+      "output_tokens": 365,
+      "searches": 1
+    },
+    {
+      "name": "ABILAR 10%",
+      "note": "С фото полки. На упаковке: Ρητίνη νορβηγικής ελάτης, help pharmaceuticals, 15g",
+      "created_at": 1790234895,
+      "status": "added",
+      "error": "",
+      "url": "",
+      "result_uid": "my-abilar-10",
+      "recognized": "",
+      "input_tokens": 7326,
+      "output_tokens": 296,
+      "searches": 0
+    },
+    {
+      "name": "IOVIR",
+      "note": "С фото полки. На упаковке: Throat spray with Carragelose, Cherry flavour, 20ml, cube",
+      "created_at": 1790234895,
+      "status": "added",
+      "error": "",
+      "url": "",
+      "result_uid": "my-iovir-troat-sprai-vit-karagelose",
+      "recognized": "",
+      "input_tokens": 18202,
+      "output_tokens": 415,
+      "searches": 1
+    },
+    {
+      "name": "IOVIR PLUS+",
+      "note": "С фото полки. На упаковке: Nasal spray with Carragelose, 20ml, cube",
+      "created_at": 1790234895,
+      "status": "added",
+      "error": "",
+      "url": "",
+      "result_uid": "my-iovir-plus",
+      "recognized": "",
+      "input_tokens": 19903,
+      "output_tokens": 399,
+      "searches": 1
+    },
+    {
+      "name": "NOZALYS RELIEF",
+      "note": "С фото полки. На упаковке: epsilon health, ρινικό εκνέφωμα, 20ml",
+      "created_at": 1790234895,
+      "status": "added",
+      "error": "",
+      "url": "",
+      "result_uid": "my-nozalis-relief",
+      "recognized": "",
+      "input_tokens": 19828,
+      "output_tokens": 378,
+      "searches": 1
     }
   ]
 }

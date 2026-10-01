@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-09-28T07:14:53.758499Z",
+  "exported_at": "2026-10-01T05:55:52.210923Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1175,6 +1175,250 @@
     {
       "uid": "rupafin",
       "added_at": 1790330553
+    },
+    {
+      "uid": "enit",
+      "added_at": 1790579699
+    },
+    {
+      "uid": "flutinasal",
+      "added_at": 1790579806
+    },
+    {
+      "uid": "solian",
+      "added_at": 1790580610
+    },
+    {
+      "uid": "tranksene",
+      "added_at": 1790591857
+    },
+    {
+      "uid": "holzet",
+      "added_at": 1790665917
+    },
+    {
+      "uid": "kovadir",
+      "added_at": 1790665934
+    },
+    {
+      "uid": "tavor",
+      "added_at": 1790665964
+    },
+    {
+      "uid": "sertral",
+      "added_at": 1790666034
+    },
+    {
+      "uid": "onda",
+      "added_at": 1790666365
+    },
+    {
+      "uid": "zaldiar",
+      "added_at": 1790666494
+    },
+    {
+      "uid": "ataraks",
+      "added_at": 1790666531
+    },
+    {
+      "uid": "ko-ipertas",
+      "added_at": 1790666565
+    },
+    {
+      "uid": "zilorik",
+      "added_at": 1790666586
+    },
+    {
+      "uid": "kildar",
+      "added_at": 1790666615
+    },
+    {
+      "uid": "baktrimel",
+      "added_at": 1790666636
+    },
+    {
+      "uid": "stedon",
+      "added_at": 1790666715
+    },
+    {
+      "uid": "tenoretik",
+      "added_at": 1790666742
+    },
+    {
+      "uid": "holisten",
+      "added_at": 1790666768
+    },
+    {
+      "uid": "vipdomet",
+      "added_at": 1790666784
+    },
+    {
+      "uid": "glukofre",
+      "added_at": 1790666815
+    },
+    {
+      "uid": "kleksane",
+      "added_at": 1790666831
+    },
+    {
+      "uid": "lipokomb",
+      "added_at": 1790666853
+    },
+    {
+      "uid": "lirika",
+      "added_at": 1790666877
+    },
+    {
+      "uid": "zoloft",
+      "added_at": 1790667038
+    },
+    {
+      "uid": "matepil",
+      "added_at": 1790667075
+    },
+    {
+      "uid": "inspra",
+      "added_at": 1790667097
+    },
+    {
+      "uid": "valsaben",
+      "added_at": 1790667118
+    },
+    {
+      "uid": "dozilaks",
+      "added_at": 1790667167
+    },
+    {
+      "uid": "rafazil",
+      "added_at": 1790667199
+    },
+    {
+      "uid": "eleveon",
+      "added_at": 1790667302
+    },
+    {
+      "uid": "nebulin",
+      "added_at": 1790667357
+    },
+    {
+      "uid": "viaksal",
+      "added_at": 1790667396
+    },
+    {
+      "uid": "solu-kortef",
+      "added_at": 1790667421
+    },
+    {
+      "uid": "ezetimibe-milan",
+      "added_at": 1790667638
+    },
+    {
+      "uid": "raneksa",
+      "added_at": 1790667716
+    },
+    {
+      "uid": "krestor",
+      "added_at": 1790667743
+    },
+    {
+      "uid": "rozor",
+      "added_at": 1790667802
+    },
+    {
+      "uid": "inegi",
+      "added_at": 1790667825
+    },
+    {
+      "uid": "tamsulosin-ariti",
+      "added_at": 1790667957
+    },
+    {
+      "uid": "importal",
+      "added_at": 1790668001
+    },
+    {
+      "uid": "seroksat",
+      "added_at": 1790668018
+    },
+    {
+      "uid": "virnazir",
+      "added_at": 1790668054
+    },
+    {
+      "uid": "olartan",
+      "added_at": 1790668075
+    },
+    {
+      "uid": "neokardon",
+      "added_at": 1790668132
+    },
+    {
+      "uid": "sintrom",
+      "added_at": 1790668180
+    },
+    {
+      "uid": "zirkos",
+      "added_at": 1790668197
+    },
+    {
+      "uid": "one-alfa",
+      "added_at": 1790668222
+    },
+    {
+      "uid": "gnostormon",
+      "added_at": 1790668267
+    },
+    {
+      "uid": "antivom",
+      "added_at": 1790668286
+    },
+    {
+      "uid": "entresto",
+      "added_at": 1790668346
+    },
+    {
+      "uid": "pravafeniks",
+      "added_at": 1790668423
+    },
+    {
+      "uid": "plavidosa",
+      "added_at": 1790668474
+    },
+    {
+      "uid": "sopa-k",
+      "added_at": 1790668491
+    },
+    {
+      "uid": "ianeo",
+      "added_at": 1790668518
+    },
+    {
+      "uid": "biosonide",
+      "added_at": 1790668550
+    },
+    {
+      "uid": "nitrong",
+      "added_at": 1790668572
+    },
+    {
+      "uid": "deksafre",
+      "added_at": 1790669551
+    },
+    {
+      "uid": "zakodian",
+      "added_at": 1790669649
+    },
+    {
+      "uid": "aldaktone",
+      "added_at": 1790675467
+    },
+    {
+      "uid": "siltaben",
+      "added_at": 1790675514
+    },
+    {
+      "uid": "lonalgal",
+      "added_at": 1790675596
     }
   ],
   "expiries": [

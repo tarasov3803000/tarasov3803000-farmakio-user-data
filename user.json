@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-10-01T05:55:52.210923Z",
+  "exported_at": "2026-10-02T07:13:56.501267Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1419,6 +1419,58 @@
     {
       "uid": "lonalgal",
       "added_at": 1790675596
+    },
+    {
+      "uid": "dimista",
+      "added_at": 1790834346
+    },
+    {
+      "uid": "foster",
+      "added_at": 1790834372
+    },
+    {
+      "uid": "foster-nekstaler-2",
+      "added_at": 1790834382
+    },
+    {
+      "uid": "foster-nekstaler",
+      "added_at": 1790834390
+    },
+    {
+      "uid": "kosopt",
+      "added_at": 1790834462
+    },
+    {
+      "uid": "kosopt-imulti",
+      "added_at": 1790834467
+    },
+    {
+      "uid": "efeksor-ksr",
+      "added_at": 1790834548
+    },
+    {
+      "uid": "ksavertia",
+      "added_at": 1790835488
+    },
+    {
+      "uid": "riksaven",
+      "added_at": 1790835903
+    },
+    {
+      "uid": "bilaz",
+      "added_at": 1790836644
+    },
+    {
+      "uid": "ieloks",
+      "added_at": 1790838534
+    },
+    {
+      "uid": "stefapleks",
+      "added_at": 1790840933
+    },
+    {
+      "uid": "medrol",
+      "added_at": 1790840950
     }
   ],
   "expiries": [

@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-10-02T07:13:56.501267Z",
+  "exported_at": "2026-10-05T07:59:06.850551Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1471,6 +1471,30 @@
     {
       "uid": "medrol",
       "added_at": 1790840950
+    },
+    {
+      "uid": "trinomia",
+      "added_at": 1790925250
+    },
+    {
+      "uid": "ksefo",
+      "added_at": 1790926358
+    },
+    {
+      "uid": "inohep",
+      "added_at": 1790926699
+    },
+    {
+      "uid": "religan",
+      "added_at": 1790926942
+    },
+    {
+      "uid": "kolhikina-akarpia",
+      "added_at": 1790927295
+    },
+    {
+      "uid": "kiproksin",
+      "added_at": 1790927328
     }
   ],
   "expiries": [

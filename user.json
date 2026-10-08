@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-10-05T07:59:06.850551Z",
+  "exported_at": "2026-10-08T07:24:42.822610Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1495,6 +1495,74 @@
     {
       "uid": "kiproksin",
       "added_at": 1790927328
+    },
+    {
+      "uid": "pikoprep",
+      "added_at": 1791187154
+    },
+    {
+      "uid": "ianuvia",
+      "added_at": 1791272124
+    },
+    {
+      "uid": "daksanlo",
+      "added_at": 1791272243
+    },
+    {
+      "uid": "atrosterol",
+      "added_at": 1791272357
+    },
+    {
+      "uid": "seretide",
+      "added_at": 1791273135
+    },
+    {
+      "uid": "konkor",
+      "added_at": 1791273169
+    },
+    {
+      "uid": "zitodur",
+      "added_at": 1791273340
+    },
+    {
+      "uid": "aktonel",
+      "added_at": 1791273412
+    },
+    {
+      "uid": "tadalafil-sandoz",
+      "added_at": 1791275617
+    },
+    {
+      "uid": "betavert",
+      "added_at": 1791275679
+    },
+    {
+      "uid": "kerlone",
+      "added_at": 1791277188
+    },
+    {
+      "uid": "prikefil",
+      "added_at": 1791358256
+    },
+    {
+      "uid": "folivoran",
+      "added_at": 1791359192
+    },
+    {
+      "uid": "sival-b",
+      "added_at": 1791359941
+    },
+    {
+      "uid": "brufen",
+      "added_at": 1791360044
+    },
+    {
+      "uid": "briklin",
+      "added_at": 1791360138
+    },
+    {
+      "uid": "kardinsta",
+      "added_at": 1791373169
     }
   ],
   "expiries": [

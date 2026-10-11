@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-10-08T07:24:42.822610Z",
+  "exported_at": "2026-10-11T21:23:59.323792Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1563,6 +1563,18 @@
     {
       "uid": "kardinsta",
       "added_at": 1791373169
+    },
+    {
+      "uid": "fliksotide",
+      "added_at": 1791535227
+    },
+    {
+      "uid": "buksodem",
+      "added_at": 1791536393
+    },
+    {
+      "uid": "komtreks-kold",
+      "added_at": 1791538197
     }
   ],
   "expiries": [

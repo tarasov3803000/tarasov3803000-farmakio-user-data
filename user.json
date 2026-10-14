@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-10-11T21:23:59.323792Z",
+  "exported_at": "2026-10-14T06:21:05.505912Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1575,6 +1575,18 @@
     {
       "uid": "komtreks-kold",
       "added_at": 1791538197
+    },
+    {
+      "uid": "emedal",
+      "added_at": 1791798837
+    },
+    {
+      "uid": "spiolto-respimat",
+      "added_at": 1791884987
+    },
+    {
+      "uid": "klovelen",
+      "added_at": 1791958219
     }
   ],
   "expiries": [

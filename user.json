@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-10-15T07:53:55.782171Z",
+  "exported_at": "2026-10-16T07:55:59.879612Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1599,6 +1599,18 @@
     {
       "uid": "rifakol",
       "added_at": 1791966423
+    },
+    {
+      "uid": "liberen",
+      "added_at": 1792050962
+    },
+    {
+      "uid": "osvirti",
+      "added_at": 1792053807
+    },
+    {
+      "uid": "visipakve",
+      "added_at": 1792058112
     }
   ],
   "expiries": [

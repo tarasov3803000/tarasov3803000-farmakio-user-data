@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-10-19T07:34:04.034343Z",
+  "exported_at": "2026-10-20T11:27:29.089156Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1611,6 +1611,58 @@
     {
       "uid": "visipakve",
       "added_at": 1792058112
+    },
+    {
+      "uid": "letrozin",
+      "added_at": 1792395255
+    },
+    {
+      "uid": "femara",
+      "added_at": 1792395464
+    },
+    {
+      "uid": "primperan",
+      "added_at": 1792398670
+    },
+    {
+      "uid": "adenurik",
+      "added_at": 1792402612
+    },
+    {
+      "uid": "buskopan",
+      "added_at": 1792402629
+    },
+    {
+      "uid": "ebiksa",
+      "added_at": 1792480890
+    },
+    {
+      "uid": "aloperidin",
+      "added_at": 1792481203
+    },
+    {
+      "uid": "terakor",
+      "added_at": 1792482072
+    },
+    {
+      "uid": "ks-prep",
+      "added_at": 1792484687
+    },
+    {
+      "uid": "sotalol-milan",
+      "added_at": 1792495189
+    },
+    {
+      "uid": "ezetrol",
+      "added_at": 1792495291
+    },
+    {
+      "uid": "pileliko-granules",
+      "added_at": 1792495357
+    },
+    {
+      "uid": "eskitalopram-ariti",
+      "added_at": 1792495418
     }
   ],
   "expiries": [

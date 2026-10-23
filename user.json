@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-10-20T11:27:29.089156Z",
+  "exported_at": "2026-10-23T09:55:37.224841Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1663,6 +1663,46 @@
     {
       "uid": "eskitalopram-ariti",
       "added_at": 1792495418
+    },
+    {
+      "uid": "lazela",
+      "added_at": 1792495739
+    },
+    {
+      "uid": "fosamaks-onke-vekli",
+      "added_at": 1792496436
+    },
+    {
+      "uid": "dinapleks",
+      "added_at": 1792577447
+    },
+    {
+      "uid": "erkiba",
+      "added_at": 1792579010
+    },
+    {
+      "uid": "diamikron-mr",
+      "added_at": 1792597857
+    },
+    {
+      "uid": "ksatral",
+      "added_at": 1792597876
+    },
+    {
+      "uid": "topamak",
+      "added_at": 1792597902
+    },
+    {
+      "uid": "eukreas",
+      "added_at": 1792653550
+    },
+    {
+      "uid": "solben",
+      "added_at": 1792658997
+    },
+    {
+      "uid": "kozar",
+      "added_at": 1792661225
     }
   ],
   "expiries": [

@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-10-23T09:55:37.224841Z",
+  "exported_at": "2026-10-26T11:41:35.158657Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1703,6 +1703,10 @@
     {
       "uid": "kozar",
       "added_at": 1792661225
+    },
+    {
+      "uid": "tirosint",
+      "added_at": 1792749353
     }
   ],
   "expiries": [

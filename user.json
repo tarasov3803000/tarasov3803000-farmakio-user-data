@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-10-26T11:41:35.158657Z",
+  "exported_at": "2026-11-02T08:37:02.359294Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1707,6 +1707,22 @@
     {
       "uid": "tirosint",
       "added_at": 1792749353
+    },
+    {
+      "uid": "simbikort",
+      "added_at": 1793014908
+    },
+    {
+      "uid": "vimpat",
+      "added_at": 1793101630
+    },
+    {
+      "uid": "teoviks",
+      "added_at": 1793103514
+    },
+    {
+      "uid": "fisiofol",
+      "added_at": 1793105420
     }
   ],
   "expiries": [

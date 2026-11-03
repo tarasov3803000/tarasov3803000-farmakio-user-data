@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-11-02T08:37:02.359294Z",
+  "exported_at": "2026-11-03T12:27:46.084600Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -353,6 +353,11 @@
       "uid": "lipidil",
       "text": "снижает уровень холестерина и триглицеридов (жиров) в крови",
       "updated_at": 1789578620
+    },
+    {
+      "uid": "plakvenil",
+      "text": "Красная волчанка, малярия, ревматоидный артрит",
+      "updated_at": 1793621609
     }
   ],
   "stock": [
@@ -1723,6 +1728,50 @@
     {
       "uid": "fisiofol",
       "added_at": 1793105420
+    },
+    {
+      "uid": "tvinsta",
+      "added_at": 1793610460
+    },
+    {
+      "uid": "tetagam-p",
+      "added_at": 1793611044
+    },
+    {
+      "uid": "zirtek",
+      "added_at": 1793615043
+    },
+    {
+      "uid": "serokvel",
+      "added_at": 1793616541
+    },
+    {
+      "uid": "valmane",
+      "added_at": 1793616681
+    },
+    {
+      "uid": "mirapeksin",
+      "added_at": 1793621363
+    },
+    {
+      "uid": "plakvenil",
+      "added_at": 1793621525
+    },
+    {
+      "uid": "simeko-mint-flavour",
+      "added_at": 1793698818
+    },
+    {
+      "uid": "doralin",
+      "added_at": 1793701703
+    },
+    {
+      "uid": "my-melo",
+      "added_at": 1793708071
+    },
+    {
+      "uid": "my-melo-iunior",
+      "added_at": 1793708072
     }
   ],
   "expiries": [

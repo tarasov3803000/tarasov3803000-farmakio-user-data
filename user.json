@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-11-03T12:27:46.084600Z",
+  "exported_at": "2026-11-05T08:26:25.013312Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1772,6 +1772,26 @@
     {
       "uid": "my-melo-iunior",
       "added_at": 1793708072
+    },
+    {
+      "uid": "kenakomb",
+      "added_at": 1793783245
+    },
+    {
+      "uid": "olansek",
+      "added_at": 1793784098
+    },
+    {
+      "uid": "ponstan",
+      "added_at": 1793784991
+    },
+    {
+      "uid": "preganet",
+      "added_at": 1793785364
+    },
+    {
+      "uid": "zinadol",
+      "added_at": 1793786064
     }
   ],
   "expiries": [

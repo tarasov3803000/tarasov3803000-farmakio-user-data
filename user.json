@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-11-05T08:26:25.013312Z",
+  "exported_at": "2026-11-06T09:34:27.495093Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1792,6 +1792,18 @@
     {
       "uid": "zinadol",
       "added_at": 1793786064
+    },
+    {
+      "uid": "fironekse",
+      "added_at": 1793867401
+    },
+    {
+      "uid": "aflen",
+      "added_at": 1793870830
+    },
+    {
+      "uid": "ladosole",
+      "added_at": 1793873087
     }
   ],
   "expiries": [

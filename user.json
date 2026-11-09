@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-11-06T09:34:27.495093Z",
+  "exported_at": "2026-11-09T08:16:08.475272Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1804,6 +1804,10 @@
     {
       "uid": "ladosole",
       "added_at": 1793873087
+    },
+    {
+      "uid": "zanidip",
+      "added_at": 1793960266
     }
   ],
   "expiries": [

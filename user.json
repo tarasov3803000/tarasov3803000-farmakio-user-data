@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-11-09T08:16:08.475272Z",
+  "exported_at": "2026-11-11T07:39:49.388245Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1808,6 +1808,26 @@
     {
       "uid": "zanidip",
       "added_at": 1793960266
+    },
+    {
+      "uid": "pitava",
+      "added_at": 1794216783
+    },
+    {
+      "uid": "pevaril",
+      "added_at": 1794221565
+    },
+    {
+      "uid": "vipidia",
+      "added_at": 1794299404
+    },
+    {
+      "uid": "platorel",
+      "added_at": 1794299774
+    },
+    {
+      "uid": "dastidem",
+      "added_at": 1794302163
     }
   ],
   "expiries": [

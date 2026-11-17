@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-11-13T07:05:08.395385Z",
+  "exported_at": "2026-11-17T20:35:40.358193Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1929,6 +1929,10 @@
     {
       "uid": "idinum",
       "added_at": 1794472837
+    },
+    {
+      "uid": "prokoralan",
+      "added_at": 1794553829
     }
   ],
   "expiries": [

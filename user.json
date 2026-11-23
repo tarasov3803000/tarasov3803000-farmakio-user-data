@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-11-19T10:47:20.103267Z",
+  "exported_at": "2026-11-23T08:38:12.234323Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1933,6 +1933,34 @@
     {
       "uid": "prokoralan",
       "added_at": 1794553829
+    },
+    {
+      "uid": "velbutrin-ksr",
+      "added_at": 1795164977
+    },
+    {
+      "uid": "vefron",
+      "added_at": 1795164991
+    },
+    {
+      "uid": "valtreks",
+      "added_at": 1795165007
+    },
+    {
+      "uid": "adaferin",
+      "added_at": 1795165022
+    },
+    {
+      "uid": "reagila",
+      "added_at": 1795165044
+    },
+    {
+      "uid": "laprazol-fas",
+      "added_at": 1795165069
+    },
+    {
+      "uid": "zesimvia",
+      "added_at": 1795165356
     }
   ],
   "expiries": [

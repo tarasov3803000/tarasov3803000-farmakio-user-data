@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-11-23T08:38:12.234323Z",
+  "exported_at": "2026-11-24T12:31:19.857726Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1961,6 +1961,22 @@
     {
       "uid": "zesimvia",
       "added_at": 1795165356
+    },
+    {
+      "uid": "soldesanil",
+      "added_at": 1795427823
+    },
+    {
+      "uid": "orgoviks",
+      "added_at": 1795431203
+    },
+    {
+      "uid": "isotroin",
+      "added_at": 1795431431
+    },
+    {
+      "uid": "dementis",
+      "added_at": 1795521131
     }
   ],
   "expiries": [

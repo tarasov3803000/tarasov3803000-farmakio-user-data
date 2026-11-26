@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-11-24T12:31:19.857726Z",
+  "exported_at": "2026-11-26T08:47:17.473631Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1977,6 +1977,14 @@
     {
       "uid": "dementis",
       "added_at": 1795521131
+    },
+    {
+      "uid": "valdoksan",
+      "added_at": 1795523856
+    },
+    {
+      "uid": "duloksetine-viatris",
+      "added_at": 1795603136
     }
   ],
   "expiries": [

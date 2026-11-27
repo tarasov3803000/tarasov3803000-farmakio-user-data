@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exported_at": "2026-11-26T08:47:17.473631Z",
+  "exported_at": "2026-11-27T12:06:58.323346Z",
   "app": "v1.12.0 (28)",
   "my_drugs": [
     {
@@ -1985,6 +1985,14 @@
     {
       "uid": "duloksetine-viatris",
       "added_at": 1795603136
+    },
+    {
+      "uid": "aknatak",
+      "added_at": 1795682856
+    },
+    {
+      "uid": "lantus",
+      "added_at": 1795688858
     }
   ],
   "expiries": [
